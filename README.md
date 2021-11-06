@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/github/repo-size/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Repository Size">
     <img src="https://img.shields.io/github/contributors/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Contributors">
     <img src="https://img.shields.io/github/issues/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Issues">
-</p>  
+</p>
+<img src="https://telegra.ph/file/ec3d6c6edd45e02c3c125.jpg" alt="JPG" width="300" height="250"/>
+</p> 
 ### A telegram bot to get a anyone's Instagram DP
 
 ## Dependencies
