@@ -1,18 +1,20 @@
 ## Instagram DP Saver Bot
 
 
+<h1 align= center>insta-Dp-Saver-Bot</h1>
+<h3 align = center>Powerful Telegram insta-Dp-Saver-Bot</h3>
 <p align="center">
-  <a href="https://github.com/MRK-YT/Instagram_DP_Saver_Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/Instagram_DP_Saver_Bot?style=social">
-
-  </a>
-  
-  <a href="https://github.com/MRK-YT/Instagram_DP_Saver_Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/Instagram_DP_Saver_Bot?label=Fork&style=social">
-
-  </a>  
-</p>
-
+<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
+<br>
+    <img src="https://img.shields.io/github/stars/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Watchers"> 
+<br>
+    <img src="https://img.shields.io/github/license/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/repo-size/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/teletips/DATE_TIME_USERBOT-TeLeTiPs?style=for-the-badge" alt="Issues">
+</p>  
 ### A telegram bot to get a anyone's Instagram DP
 
 ## Dependencies
