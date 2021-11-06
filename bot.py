@@ -24,6 +24,8 @@ AVAILABLE COMMANDS✅️
 
  👉/help :Avilable Helps🌹
 
+ 👉/contact :Any bugs ? contact User🥰
+
 *ex :* `@AD_BOTZ`...., *etc*'''
 
 logging.basicConfig(
