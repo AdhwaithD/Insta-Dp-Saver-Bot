@@ -36,10 +36,10 @@
 
 ## You can deploy the bot yourself here(The easy way)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MRK-YT/Instagram_DP_Saver_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdhwaithD/insta-Dp-Saver-Bot/tree/main)
 
-## Watch the video here
+## Mor Botz
 
-<a href = "https://youtu.be/6AlELqY_w6o"><img src="https://raw.githubusercontent.com/anishgowda21/SVG_for_README/main/youtube-minimal-icon-1.svg" width="100px"></a>
+<a href = "https://t.me/AD_BOTZ"><img src="https://raw.githubusercontent.com/anishgowda21/SVG_for_README/main/Tekegram-minimal-icon-1.svg" width="100px"></a>
 
-## Visit my bot [Instagram DP Saver Bot](https://telegram.dog/MT_insta_dp_saver_bot)
+## Visit my bot [Instagram DP Saver Bot](https://github.com/AdhwaithD/insta-Dp-Saver-Bot)
